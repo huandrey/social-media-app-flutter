@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "939189006127",
+    "project_id": "chatapp-c5f72",
+    "storage_bucket": "chatapp-c5f72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939189006127:android:463ce632ed695a954a3bda",
+        "android_client_info": {
+          "package_name": "br.com.spectrum.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc-w7oYi3OsHCD9f8DrggQr89j2C0KOpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939189006127:android:99ccc3c27832429b4a3bda",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc-w7oYi3OsHCD9f8DrggQr89j2C0KOpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
